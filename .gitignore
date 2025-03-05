@@ -4,5 +4,6 @@
 *symvers
 *.order
 *.mod
+*.mod.c
 *.mode.cmd
 .vscode
